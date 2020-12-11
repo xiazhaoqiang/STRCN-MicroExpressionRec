@@ -11,5 +11,6 @@ The code was written in MATLAB R2018b, and tested on Windows 7 and 10.
 -  Eulerian Video Magnification (2012):http://people.csail.mit.edu/mrub/vidmag/
 
 #### Instructions
-1.  The faces should be cropped by your own tools and all images are storaged with the format of casme2 way.
-2.  The appearance connect and geometric connect needs to be performed before training the deep model. All the data needs to be prepared and storaged into the mat file.
+1.  The faces should be cropped by your own tools and applified by the EVM.
+2.  All images are storaged with the format of casme2 way.
+3.  The appearance connect and geometric connect needs to be performed before training the deep model. All the data needs to be prepared and storaged into the mat file.
